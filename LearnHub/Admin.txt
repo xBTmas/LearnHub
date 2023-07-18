@@ -1,0 +1,3 @@
+username: aryan
+email: aryan@gmail.com
+password: Neetusinha8
